@@ -92,13 +92,3 @@ After cloning the repository, just have to run these two commands on the outer m
  <h1>6. Recently visited page</h1>
   <h4>User can find the hotels which he has viewed recently in this page</h4>
  <img style="width:100%" src="https://i.ibb.co/BC7ZDZ3/recentlyviewed.png" width="400"/>
-
- 
-  
-## Authors
-
-- [@Akshaykumar](https://github.com/Akshaykumar24)
-- [@Rahul](https://github.com/Rahul3105)
-- [@Omkar Gavade](https://github.com/omkarvgavade)
-- [@Amarjeet Singh](https://github.com/ajkarnawal0001)
-
